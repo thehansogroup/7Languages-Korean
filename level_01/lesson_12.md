@@ -1,12 +1,12 @@
-### Level 1, Lesson 12: Colors
+# Level 1, Lesson 12: Colors
 
-#### Objective
+## Objective
 
 Learn how to identify and name basic colors in Korean and use them in context when discussing objects and preferences.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A couple shopping for clothes](./resources/l1_lesson12.png)
 
@@ -30,7 +30,7 @@ Learn how to identify and name basic colors in Korean and use them in context wh
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 색깔 (color)
 
@@ -52,7 +52,7 @@ Learn how to identify and name basic colors in Korean and use them in context wh
 
 ---
 
-#### Grammar
+## Grammar
 
 In Korean, colors are used both as nouns and as adjectives. When used as adjectives, they need to be in the correct form to modify a noun.
 
@@ -68,13 +68,13 @@ In Korean, colors are used both as nouns and as adjectives. When used as adjecti
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Colors in Korean culture often carry deep symbolism. For example, white (하얀색) is commonly associated with purity and is often worn at funerals, while red (빨간색) represents good fortune and is a popular color during celebrations and holidays.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Practice Matching:**
 
@@ -94,7 +94,7 @@ Colors in Korean culture often carry deep symbolism. For example, white (하얀�
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Handbook of Korean Vocabulary: A Resource for Word Recognition and Comprehension" by Miho Choo and William O'Grady, to expand your color vocabulary.
 

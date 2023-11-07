@@ -1,12 +1,12 @@
-### Level 1, Lesson 11: Basic Adjectives - Describing Objects
+# Level 1, Lesson 11: Basic Adjectives - Describing Objects
 
-#### Objective
+## Objective
 
 To effectively utilize basic adjectives to describe objects in Korean, emphasizing characteristics such as size, age, and more.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![Two people in a department store with bags](./resources/l1_lesson11.png)
 
@@ -30,7 +30,7 @@ To effectively utilize basic adjectives to describe objects in Korean, emphasizi
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 크다 (big)
 
@@ -52,7 +52,7 @@ To effectively utilize basic adjectives to describe objects in Korean, emphasizi
 
 ---
 
-#### Grammar
+## Grammar
 
 When using adjectives in Korean, they typically precede the nouns they modify, and they must agree in tense and politeness level with the rest of the sentence. Here's how you can use the adjective with a noun:
 
@@ -78,13 +78,13 @@ When using adjectives in Korean, they typically precede the nouns they modify, a
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Koreans value beauty and aesthetics, and this is often reflected in the language used to describe objects. An old object is not merely 오래된 but carries connotations of timelessness or a story behind it, reflecting the value placed on history and tradition.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Practice Writing:**
 
@@ -104,7 +104,7 @@ Koreans value beauty and aesthetics, and this is often reflected in the language
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Korean Grammar for International Learners" by Ihm Ho-bin, et al., for a deeper dive into Korean adjectives and their usage.
 

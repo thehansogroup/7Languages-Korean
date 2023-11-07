@@ -1,12 +1,12 @@
-### Level 1, Lesson 5: Numbers 1-10
+# Level 1, Lesson 5: Numbers 1-10
 
-#### Objective
+## Objective
 
 Learn to count from 1 to 10 in Korean and understand how to use these numbers in daily situations.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A person buying fruit from a merchant](./resources/l1_lesson05.png)
 
@@ -30,7 +30,7 @@ Learn to count from 1 to 10 in Korean and understand how to use these numbers in
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 하나 — One
 
@@ -54,7 +54,7 @@ Learn to count from 1 to 10 in Korean and understand how to use these numbers in
 
 ---
 
-#### Grammar
+## Grammar
 
 - Numbers in Korean are used with counters based on the type of object being counted. For general objects, 개 (gae) is used.
 
@@ -62,13 +62,13 @@ Learn to count from 1 to 10 in Korean and understand how to use these numbers in
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Numbers have significant meanings in Korea, often associated with luck or superstition. The number four, for example, is considered unlucky because it sounds like the word for 'death' (사).
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Counting Practice:**
 
@@ -88,7 +88,7 @@ Numbers have significant meanings in Korea, often associated with luck or supers
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - The website "How to Study Korean" offers comprehensive lessons on Korean numbers, including both the native Korean and Sino-Korean number systems.
 

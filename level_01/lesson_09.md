@@ -1,12 +1,12 @@
-### Level 1, Lesson 9: Common Verbs – "Eat" and "Drink"
+# Level 1, Lesson 9: Common Verbs – "Eat" and "Drink"
 
-#### Objective
+## Objective
 
 To understand and correctly use the verbs for 'to eat' (먹다) and 'to drink' (마시다) in the present tense, along with naming common food and beverages.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A lady ordering food from a waitress at the table](./resources/l1_lesson09.png)
 
@@ -30,7 +30,7 @@ To understand and correctly use the verbs for 'to eat' (먹다) and 'to drink' (
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 먹다 — To eat
 
@@ -52,7 +52,7 @@ To understand and correctly use the verbs for 'to eat' (먹다) and 'to drink' (
 
 ---
 
-#### Grammar
+## Grammar
 
 - Present tense verbs: 먹다 becomes 먹어요 (meogeoyo) to say 'eat' and 마시다 becomes 마셔요 (masyeoyo) to say 'drink' in a polite present tense form.
 
@@ -60,13 +60,13 @@ To understand and correctly use the verbs for 'to eat' (먹다) and 'to drink' (
 
 ---
 
-#### Culture Note
+## Culture Note
 
 In Korea, meals are often shared family-style, with multiple dishes placed in the center of the table. It is customary to wait for the eldest at the table to start eating before others begin.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Translation Exercise:**
 
@@ -86,7 +86,7 @@ In Korea, meals are often shared family-style, with multiple dishes placed in th
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Korean Made Simple" by Billy Go covers essential verbs and their conjugations.
 

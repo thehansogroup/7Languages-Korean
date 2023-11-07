@@ -1,12 +1,12 @@
-### Level 1, Lesson 6: Simple Nouns – Objects around us
+# Level 1, Lesson 6: Simple Nouns – Objects around us
 
-#### Objective
+## Objective
 
 To learn the names of common objects in Korean that you might find in a classroom or office setting.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A person buying fruit from a merchant](./resources/l1_lesson06.png)
 
@@ -30,7 +30,7 @@ To learn the names of common objects in Korean that you might find in a classroo
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 책 — Book
 
@@ -54,7 +54,7 @@ To learn the names of common objects in Korean that you might find in a classroo
 
 ---
 
-#### Grammar
+## Grammar
 
 - In Korean, nouns do not change their form between singular and plural in most cases. Context usually indicates the plurality.
 
@@ -62,13 +62,13 @@ To learn the names of common objects in Korean that you might find in a classroo
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Some objects have cultural superstitions associated with them. For example, writing someone's name in red ink is avoided as it was traditionally associated with death.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Identification Exercise:**
 
@@ -88,7 +88,7 @@ Some objects have cultural superstitions associated with them. For example, writ
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "My First 500 Korean Words" by Talk To Me In Korean for a comprehensive list of everyday nouns.
 

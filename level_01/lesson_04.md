@@ -1,12 +1,12 @@
-### Level 1, Lesson 4: Yes or No – Understanding Affirmation and Negation
+# Level 1, Lesson 4: Yes or No – Understanding Affirmation and Negation
 
-#### Objective
+## Objective
 
 Learn to correctly use and understand affirmative and negative responses in Korean.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A teacher scolding a boy](./resources/l1_lesson04.png)
 
@@ -30,7 +30,7 @@ Learn to correctly use and understand affirmative and negative responses in Kore
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 1. 네 — Yes
 
@@ -54,7 +54,7 @@ Learn to correctly use and understand affirmative and negative responses in Kore
 
 ---
 
-#### Grammar
+## Grammar
 
 - The verb 이다 is used to affirmatively describe a noun, while 아니다 is used to negate.
 
@@ -62,13 +62,13 @@ Learn to correctly use and understand affirmative and negative responses in Kore
 
 ---
 
-#### Culture Note
+## Culture Note
 
 In Korean culture, it's common to answer positively by saying 네, even when it’s understood as a polite acknowledgment rather than a literal 'yes'. Negation should also be expressed politely, often by giving a brief reason or apology.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Matching Exercise:**
 
@@ -88,7 +88,7 @@ In Korean culture, it's common to answer positively by saying 네, even when it�
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Talk To Me In Korean" has podcasts and videos with more examples and explanations on the usage of 네 and 아니요 in conversation.
 

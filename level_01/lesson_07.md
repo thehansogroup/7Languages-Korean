@@ -1,12 +1,12 @@
-### Level 1, Lesson 7: This and That - Demonstratives
+# Level 1, Lesson 7: This and That - Demonstratives
 
-#### Objective
+## Objective
 
 Learn to use Korean demonstratives to talk about objects in relation to their distance from the speaker.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A man pointing at a computer](./resources/l1_lesson07.png)
 
@@ -30,7 +30,7 @@ Learn to use Korean demonstratives to talk about objects in relation to their di
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 이것 — This thing (close to speaker)
 
@@ -52,7 +52,7 @@ Learn to use Korean demonstratives to talk about objects in relation to their di
 
 ---
 
-#### Grammar
+## Grammar
 
 - Korean demonstratives '이', '그', '저' are placed before nouns to indicate 'this', 'that', 'that over there' respectively, depending on the distance.
 
@@ -60,13 +60,13 @@ Learn to use Korean demonstratives to talk about objects in relation to their di
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Koreans often use spatial language to show respect. For example, when referring to someone else’s belongings, it is polite to use '저' (that over there) even if it is close, to show respect for the other person’s property.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Matching Exercise:**
 
@@ -86,7 +86,7 @@ Koreans often use spatial language to show respect. For example, when referring 
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Korean Grammar in Use: Beginning to Early Intermediate" provides a great explanation of demonstratives in context.
 

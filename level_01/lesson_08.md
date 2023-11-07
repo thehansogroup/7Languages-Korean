@@ -1,12 +1,12 @@
-### Level 1, Lesson 8: "Please" – Making Polite Requests
+# Level 1, Lesson 8: "Please" – Making Polite Requests
 
-#### Objective
+## Objective
 
 Learn how to make polite requests in Korean using the equivalent of 'please'.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A girl serving a coffee](./resources/l1_lesson08.png)
 
@@ -34,7 +34,7 @@ Learn how to make polite requests in Korean using the equivalent of 'please'.
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 주세요 — Please give me...
 
@@ -58,7 +58,7 @@ Learn how to make polite requests in Korean using the equivalent of 'please'.
 
 ---
 
-#### Grammar
+## Grammar
 
 - The verb ending '-주세요' (juseyo) is added to the stem of verbs to make polite requests. It is the equivalent of 'please do...' in English.
 
@@ -66,13 +66,13 @@ Learn how to make polite requests in Korean using the equivalent of 'please'.
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Politeness and the proper use of honorifics are deeply ingrained in Korean society. Using '-주세요' is a simple yet important way to be polite, especially when you are in a service situation like at a café or a store.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Role-play:**
 
@@ -92,7 +92,7 @@ Politeness and the proper use of honorifics are deeply ingrained in Korean socie
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Korean for Beginners" by Henry J. Amen IV and Kyubyong Park offers detailed explanations and more examples of making requests.
 

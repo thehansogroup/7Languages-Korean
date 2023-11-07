@@ -1,12 +1,12 @@
-### Level 1, Lesson 13: Family Members
+# Level 1, Lesson 13: Family Members
 
-#### Objective
+## Objective
 
 Students will learn how to discuss family and use the proper terms for various family members in Korean.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A family](./resources/l1_lesson13.png)
 
@@ -36,7 +36,7 @@ Students will learn how to discuss family and use the proper terms for various f
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 가족 – family
 
@@ -60,7 +60,7 @@ Students will learn how to discuss family and use the proper terms for various f
 
 ---
 
-#### Grammar
+## Grammar
 
 The use of possessive pronouns in Korean is straightforward. To indicate possession, you simply add 의 to the noun.
 
@@ -70,13 +70,13 @@ The use of possessive pronouns in Korean is straightforward. To indicate possess
 
 ---
 
-#### Culture Note
+## Culture Note
 
 In Korea, family is central to social life and identity. Hierarchical relationships play a significant role, and terms of address for family members reflect this. Terms like 형, 누나, 오빠, and 언니 are also used outside of the family to address friends and acquaintances who are older, as a sign of respect and closeness.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Fill-in-the-Blank:**
 
@@ -104,7 +104,7 @@ In Korea, family is central to social life and identity. Hierarchical relationsh
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Korean Grammar in Use: Beginning to Early Intermediate" by Ahn Jean-myung, Lee Kyung-ah, and Han Hoo-young for more in-depth grammar practice.
 

@@ -1,18 +1,18 @@
-### Level 1, Lesson 3: Introductions – "What is your name?"
+# Level 1, Lesson 3: Introductions – "What is your name?"
 
-#### Welcome to your third Korean lesson at 7Languages
+## Welcome to your third Korean lesson at 7Languages
 
 Mastering the art of introductions is the foundation of making new connections. Let's learn how to ask and answer the simple yet essential question of someone's name.
 
 ---
 
-#### Objective
+## Objective
 
 By the end of this lesson, you'll know how to properly introduce yourself and inquire about someone's name in Korean.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![Someone introducing themselves](./resources/l1_lesson03.png)
 
@@ -32,7 +32,7 @@ By the end of this lesson, you'll know how to properly introduce yourself and in
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 1. 이름 — Name
 
@@ -56,7 +56,7 @@ By the end of this lesson, you'll know how to properly introduce yourself and in
 
 ---
 
-#### Grammar
+## Grammar
 
 - **이름이 뭐예요?** is the standard polite way to ask someone’s name.
 
@@ -64,13 +64,13 @@ By the end of this lesson, you'll know how to properly introduce yourself and in
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Korean names typically consist of a one-syllable family name followed by a two-syllable given name. Names carry significant meanings and are chosen with great care. Unlike in Western cultures, it’s customary to address someone using their full name plus an honorific, such as "씨," rather than just their given name, especially in formal or business settings.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Listening Practice:**
 
@@ -90,7 +90,7 @@ Korean names typically consist of a one-syllable family name followed by a two-s
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - For more on Korean names and their meanings, the book "A Dictionary of Korean Names" by Hongyoun Choi could be a valuable resource.
 

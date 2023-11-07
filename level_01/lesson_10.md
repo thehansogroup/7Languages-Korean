@@ -1,12 +1,12 @@
-### Level 1, Lesson 10: Farewells - "Goodbye" and "See you again"
+# Level 1, Lesson 10: Farewells - "Goodbye" and "See you again"
 
-#### Objective
+## Objective
 
 To learn how to bid farewell in both formal and informal situations in Korean, and to understand the nuances of each.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A man is leaving the office](./resources/l1_lesson10.png)
 
@@ -30,7 +30,7 @@ To learn how to bid farewell in both formal and informal situations in Korean, a
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 - 안녕히 가세요 — Goodbye (said to the person leaving)
 
@@ -42,7 +42,7 @@ To learn how to bid farewell in both formal and informal situations in Korean, a
 
 ---
 
-#### Grammar
+## Grammar
 
 - Discuss the use of the honorific suffix -(으)세요 for formal farewells.
 
@@ -50,13 +50,13 @@ To learn how to bid farewell in both formal and informal situations in Korean, a
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Korean culture places a significant emphasis on politeness and respect, especially when parting. This is often expressed through the language, with different levels of politeness employed depending on the situation and relationship between the individuals.
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Role-Playing Exercise:**
 
@@ -76,7 +76,7 @@ Korean culture places a significant emphasis on politeness and respect, especial
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - Explore the cultural context of Korean farewells in media such as dramas or films, noting the language and customs.
 

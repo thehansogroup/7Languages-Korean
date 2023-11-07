@@ -1,18 +1,18 @@
-### Level 1, Lesson 2: Expressing Gratitude – "Thank you"
+# Level 1, Lesson 2: Expressing Gratitude – "Thank you"
 
-#### Welcome back to the 7Languages Korean Course
+## Welcome back to the 7Languages Korean Course
 
 Today, you’ll deepen your understanding of how to express gratitude in Korean, a vital part of polite communication.
 
 ---
 
-#### Objective
+## Objective
 
 By the end of this lesson, you will be able to express thanks in Korean and respond to thanks in a culturally appropriate way.
 
 ---
 
-#### Dialogue
+## Dialogue
 
 ![A lady saying thank you](./resources/l1_lesson02.png)
 
@@ -38,7 +38,7 @@ Later, Emily sees Ha-jun at a café and offers him a seat.
 
 ---
 
-#### Vocabulary
+## Vocabulary
 
 1. 감사합니다 — Thank you (formal)
 
@@ -62,7 +62,7 @@ Later, Emily sees Ha-jun at a café and offers him a seat.
 
 ---
 
-#### Grammar
+## Grammar
 
 1. **-ㅂ니다/습니다** is a formal ending used in polite situations to express gratitude or apologies.
 
@@ -70,13 +70,13 @@ Later, Emily sees Ha-jun at a café and offers him a seat.
 
 ---
 
-#### Culture Note
+## Culture Note
 
 Expressing gratitude is a very important part of Korean culture. It's common to use polite expressions frequently throughout the day, and even simple acts like receiving a receipt from a cashier are often accompanied by a polite "감사합니다."
 
 ---
 
-#### Homework and Exercises
+## Homework and Exercises
 
 1. **Listening Practice:**
 
@@ -96,7 +96,7 @@ Expressing gratitude is a very important part of Korean culture. It's common to 
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - "Korean Honorifics and Politeness in Second Language Learning" by Lucien Brown for further understanding the cultural context of politeness in Korean.
 
