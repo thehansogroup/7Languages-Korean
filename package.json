@@ -1,0 +1,23 @@
+{
+  "name": "7Languages-Korean",
+  "version": "1.0.0",
+  "description": "Korean content for the \"7Languages\" platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehansogroup/7Languages-Korean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thehansogroup/7Languages-Korean/issues"
+  },
+  "homepage": "https://github.com/thehansogroup/7Languages-Korean#readme",
+  "devDependencies": {
+    "honkit": "^5.1.1"
+  }
+}
